@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 body,html,section,article,div,h2,p,img,ul,li{margin:0px;padding:0px;}
 ul,li{ list-style:none;}
@@ -22,4 +22,5 @@ body{background:#e1e5e7;}
 .play_btn img{max-width:100%;}
 .gm_btn{display:block;height:89px;background:-moz-linear-gradient(#6b7ba4,#1d2948);background:-webkit-linear-gradient(#6b7ba4,#1d2948);border:1px solid #516085; box-shadow:1px 1px 0 #8891a3;border-radius:7px; text-align:center;color:#fff; font-family:"微软雅黑";font-size:2.25em;line-height:89px; text-decoration:none;}
 .mb45{margin-bottom:45px;}
+.h3{font-size:0.3rem;color:#10b2ff;width:1rem;height:2rem;}
 
